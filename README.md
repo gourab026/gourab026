@@ -2,9 +2,7 @@
 
 ### A passionate Procastinator 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab026&label=Profile views&color=0e75b6&style=flat" alt="gourab026" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourab026" alt="gourab026" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
 
 - 🔭 I'm currently working on **Something ...**
 
