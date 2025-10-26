@@ -2,7 +2,7 @@
 
 ### A passionate Procastinator 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gourabdg47" alt="Gourabdg47" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab026" alt="Gourabdg47" /> </p>
 
 - 🔭 I'm currently working on **Something ...**
 
