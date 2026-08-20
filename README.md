@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab026" alt="Gourabdg47" /> </p>
 
-- 📫 How to reach me **gourab.dasguptapro@gmail.com**
+- 📫 How to reach me **gourab@sentrint.com**
 
 - 📄 Know about my experiences **[https://gourab026.github.io](https://gourab026.github.io)**
 
